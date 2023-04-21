@@ -1,0 +1,31 @@
+.card {
+align-items: center;
+text-align: center;
+background-color: hsl(0, 0%, 90%);
+
+}
+
+.container {
+    font-size: small;
+}
+
+#qr__image {
+    width: 300px;
+    height: 300px;
+}
+
+.header {
+    padding: 50px;
+}
+
+h2 {
+    text-align: center;
+    align-items: center;   
+    color: #000066;
+    inline-size: 240px;  
+    display:inline-flex
+}
+
+p {
+    display:flex;
+}

@@ -1,0 +1,16 @@
+.card {
+font-family: 'Courier New', Courier, monospace;
+align-items: center;
+text-align: center;
+}
+
+.container {
+    font-size: x-large;
+}
+
+#qr__image {
+    width: 600px;
+    height: 600px;
+    align-items: center;
+    text-align: center;
+}

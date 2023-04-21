@@ -1,0 +1,22 @@
+.card {
+align-items: center;
+text-align: center;
+background-color: hsl(0, 0%, 90%);
+}
+
+/* .container {
+    font-size: x-large;
+} */
+
+#qr__image {
+    width: 300px;
+    height: 300px;
+}
+
+.header {
+    padding: 50px;
+}
+
+h2 {
+    color: #003399
+}

@@ -1,0 +1,15 @@
+.card {
+align-items: center;
+text-align: center;
+}
+
+/* .container {
+    font-size: x-large;
+} */
+
+#qr__image {
+    width: 300px;
+    height: 300px;
+    
+
+}

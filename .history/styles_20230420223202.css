@@ -1,0 +1,13 @@
+.card {
+font-family: 'Courier New', Courier, monospace;
+
+}
+
+.container {
+    font-size: x-large;
+}
+
+#qr__image {
+    width: 600px;
+    height: 600px;
+}

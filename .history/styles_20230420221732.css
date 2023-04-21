@@ -1,0 +1,9 @@
+.card {
+    text-align: center;
+    width: 400px;
+    height: 525px;
+    margin: 20px;
+    padding: 20;
+    background-image: url("/images/image-qr-code.png");
+    /* background-size: cover; */
+}

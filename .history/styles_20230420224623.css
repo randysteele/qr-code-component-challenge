@@ -1,0 +1,21 @@
+.card {
+align-items: center;
+text-align: center;
+}
+
+/* .container {
+    font-size: x-large;
+} */
+
+#qr__image {
+    width: 300px;
+    height: 300px;
+}
+
+.header {
+    padding: 50px;
+}
+
+h2 {
+    color: #003399
+}
