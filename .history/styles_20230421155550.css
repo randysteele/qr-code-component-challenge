@@ -34,7 +34,3 @@ body {
     color: hsl(212, 45%, 89%);
     font-weight: 400;
   }
-
-  * {
-    box-sizing: border-box;
-  }
